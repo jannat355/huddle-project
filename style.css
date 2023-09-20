@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+/* header section */
+
+header{
+    background: url(images/bg-hero-desktop.svg) hsl(184, 100%, 97%) no-repeat;
+}
+
+/* nav section */
+nav img{
+    width: 8rem;
+}
+nav button{
+    width: 10rem;
+}
+/* hero-section */
+.hero-content h2{
+    font-family:'Poppins',sans-serif;
+}
+
+.hero-content button{
+    background-color: hsl(322,100% ,66%);
+}
+
+.btn{
+    background-color:hsl(322,100% ,66%);
+    color: white;
+}
+footer{
+    background-color: hsl(192, 100%, 9%);
+}
